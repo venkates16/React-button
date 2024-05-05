@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.container {
+  background: rgb(53, 103, 168);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+button {
+  cursor: pointer;
+  outline: none;
+  background-color: rgb(216, 70, 44);
+}
+.card{
+  text-align: center;
+}
